@@ -1,3 +1,0 @@
-tint2 -c /home/miles/Configuration/tint2/left.tint2rc &
-tint2 -c /home/miles/Configuration/tint2/center.tint2rc &
-tint2 -c /home/miles/Configuration/tint2/right.tint2rc &
